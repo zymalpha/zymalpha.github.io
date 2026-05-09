@@ -12,9 +12,9 @@ interface Particle {
   color: string;
 }
 
-const PARTICLE_COLORS = ['var(--accent)', 'var(--primary)', 'var(--info)', 'var(--success)'];
-const PARTICLE_COUNT = 10;
-const PARTICLE_LIFETIME = 720;
+const PARTICLE_COLORS = ['var(--accent)', 'var(--accent-light)', 'var(--info)'];
+const PARTICLE_COUNT = 7;
+const PARTICLE_LIFETIME = 1100;
 
 export default function ClickParticles() {
   const [particles, setParticles] = useState<Particle[]>([]);
@@ -26,8 +26,8 @@ export default function ClickParticles() {
       if (event.button !== 0 || event.pointerType === 'pen') return;
 
       const created = Array.from({ length: PARTICLE_COUNT }, (_, index) => {
-        const angle = (Math.PI * 2 * index) / PARTICLE_COUNT + Math.random() * 0.45;
-        const distance = 28 + Math.random() * 36;
+        const angle = (Math.PI * 2 * index) / PARTICLE_COUNT + Math.random() * 0.32;
+        const distance = 18 + Math.random() * 26;
 
         return {
           id: nextId++,
@@ -35,7 +35,7 @@ export default function ClickParticles() {
           y: event.clientY,
           dx: Math.cos(angle) * distance,
           dy: Math.sin(angle) * distance,
-          size: 5 + Math.random() * 5,
+          size: 4 + Math.random() * 4,
           color: PARTICLE_COLORS[index % PARTICLE_COLORS.length],
         };
       });
