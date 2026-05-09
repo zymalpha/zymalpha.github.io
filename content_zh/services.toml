@@ -1,9 +1,15 @@
 type = "card"
-title = "学术服务"
-description = "专业服务与社区参与。"
+title = "志愿服务"
+description = "学生工作、志愿服务与公共参与。"
 
 [[items]]
-title = "审稿人"
-subtitle = "某期刊"
+title = "校级优秀志愿者"
+subtitle = "南京农业大学"
+date = "2025"
+content = "累计志愿服务时长超过 600 小时，获得校级优秀志愿者荣誉。"
+
+[[items]]
+title = "校级优秀学生干部"
+subtitle = "南京农业大学"
 date = "2024"
-content = "参与审阅论文。"
+content = "参与学生工作与集体事务组织，获得校级优秀学生干部荣誉。"

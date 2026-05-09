@@ -3,25 +3,43 @@ title = "奖项"
 description = "我获得的荣誉与奖项。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "国家奖学金"
+subtitle = "国家级"
+date = "2025-2026"
+content = "获得 2025-2026 学年国家奖学金。"
+
+[[items]]
+title = "iCAN 大学生创新创业大赛省一等奖"
+subtitle = "省级竞赛"
 date = "2025"
-content = "奖项说明。"
+content = "在 iCAN 大学生创新创业大赛中获得省一等奖。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "全国大学生嵌入式芯片与系统设计竞赛省二等奖"
+subtitle = "省级竞赛"
+date = "2025"
+content = "在全国大学生嵌入式芯片与系统设计竞赛中获得省二等奖。"
+
+[[items]]
+title = "校三好学生一等奖学金"
+subtitle = "南京农业大学"
+date = "2024-2025"
+content = "获得 2024-2025 学年校三好学生一等奖学金。"
+
+[[items]]
+title = "单科优秀奖学金"
+subtitle = "南京农业大学"
 date = "2024"
-content = "奖项说明。"
+content = "因英语六级成绩 539 分获得单科优秀奖学金。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2023"
-content = "奖项说明。"
+title = "校级优秀学生干部"
+subtitle = "南京农业大学"
+date = "2024"
+content = "获得校级优秀学生干部荣誉。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "校级优秀志愿者"
+subtitle = "南京农业大学"
+date = "2025"
+content = "累计志愿服务时长超过 600 小时，获得校级优秀志愿者荣誉。"

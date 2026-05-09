@@ -1,18 +1,20 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "郑一鸣"
+description = "南京农业大学数据科学与大数据技术本科生，关注医学图像处理、深度学习与智能医学影像重建。"
+last_updated = "2026年5月9日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "郑一鸣"
+title = "数据科学与大数据技术本科生"
+institution = "南京农业大学"
 
 [social]
-location = "城市，国家"
+email = "yiming_njau@163.com"
+location = "江苏南京"
+github = "https://github.com/zymalpha"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "南京农业大学",
+  "数据科学与大数据技术专业"
 ]
 
 [[navigation]]
@@ -28,7 +30,7 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "科研经历"
 type = "page"
 target = "teaching"
 href = "/teaching"
@@ -40,7 +42,7 @@ target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "服务"
+title = "志愿服务"
 type = "page"
 target = "services"
 href = "/services"
