@@ -167,14 +167,17 @@ export default function Navigation({
             animate={{ y: 0 }}
             transition={{ duration: 0.6 }}
             className={cn(
-              'transition-all duration-300 ease-out',
+              'border-b backdrop-blur-xl transition-all duration-300 ease-out supports-[backdrop-filter]:bg-background/65',
               scrolled
-                ? 'bg-background/80 backdrop-blur-xl border-b border-neutral-200/50 shadow-lg'
-                : 'bg-transparent'
+                ? 'bg-background/82 border-neutral-200/70 shadow-lg shadow-neutral-900/5 dark:bg-neutral-900/72 dark:border-neutral-700/55'
+                : 'bg-background/48 border-white/20 shadow-sm shadow-neutral-900/[0.03] dark:bg-neutral-900/42 dark:border-white/10'
             )}
           >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="flex justify-between items-center h-16 lg:h-20">
+              <div className={cn(
+                'flex justify-between items-center transition-all duration-300 ease-out',
+                scrolled ? 'h-14 lg:h-16' : 'h-16 lg:h-20'
+              )}>
                 <motion.div
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
@@ -182,7 +185,10 @@ export default function Navigation({
                 >
                   <Link
                     href="/"
-                    className="text-xl lg:text-2xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
+                    className={cn(
+                      'font-serif font-semibold text-primary hover:text-accent transition-all duration-300',
+                      scrolled ? 'text-lg lg:text-xl' : 'text-xl lg:text-2xl'
+                    )}
                   >
                     {effectiveSiteTitle}
                   </Link>
@@ -277,7 +283,7 @@ export default function Navigation({
                   animate={{ opacity: 1, height: 'auto' }}
                   exit={{ opacity: 0, height: 0 }}
                   transition={{ duration: 0.3 }}
-                  className="lg:hidden bg-background/95 backdrop-blur-xl border-b border-neutral-200/50 shadow-lg"
+                  className="lg:hidden bg-background/86 backdrop-blur-xl border-b border-neutral-200/60 shadow-lg dark:bg-neutral-900/82 dark:border-neutral-700/55"
                 >
                   <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                     {effectiveItems.map((item, index) => {
