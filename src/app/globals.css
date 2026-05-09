@@ -253,3 +253,28 @@ body {
   /* Soften card borders in dark mode only */
   border-color: rgba(148, 163, 184, 0.24);
 }
+
+.click-particle {
+  position: absolute;
+  border-radius: 9999px;
+  opacity: 0.9;
+  transform: translate(-50%, -50%) scale(1);
+  animation: click-particle-burst 720ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  box-shadow: 0 0 14px currentColor;
+}
+
+@keyframes click-particle-burst {
+  100% {
+    opacity: 0;
+    transform: translate(
+      calc(-50% + var(--particle-x)),
+      calc(-50% + var(--particle-y))
+    ) scale(0.15);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .click-particle {
+    display: none;
+  }
+}

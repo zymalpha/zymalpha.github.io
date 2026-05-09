@@ -4,6 +4,7 @@ import Navigation from '@/components/layout/Navigation';
 import Footer from '@/components/layout/Footer';
 import { ThemeProvider } from '@/components/ui/ThemeProvider';
 import { LocaleProvider } from '@/components/ui/LocaleProvider';
+import ClickParticles from '@/components/ui/ClickParticles';
 import { getConfig } from '@/lib/config';
 import { getRuntimeI18nConfig } from '@/lib/i18n/config';
 import type { SiteConfig } from '@/lib/config';
@@ -168,6 +169,7 @@ export default function RootLayout({
       <body className="font-sans antialiased">
         <ThemeProvider>
           <LocaleProvider config={runtimeI18n}>
+            <ClickParticles />
             <Navigation
               items={config.navigation}
               siteTitle={config.site.title}
