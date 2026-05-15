@@ -51,7 +51,7 @@ content = "Participated in volunteer service for the Nanjing Pukou Marathon, ass
 tags = ["Pukou Marathon", "Event Service"]
 
 [[items]]
-title = "Jiangsu City Football League Volunteer Service"
+title = "Jiangsu City Football League Volunteer: Nanjing vs Suzhou"
 subtitle = "Jiangsu City Football League / Event Volunteer"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-1.jpg"
@@ -59,7 +59,7 @@ content = "Supported on-site volunteer work for the Jiangsu City Football League
 tags = ["Football Event", "On-Site Service"]
 
 [[items]]
-title = "Jiangsu City Football League Volunteer Record"
+title = "Jiangsu City Football League Volunteer: Nanjing vs Suzhou"
 subtitle = "Jiangsu City Football League / Volunteer Service"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-2.jpg"
@@ -67,7 +67,7 @@ content = "Participated in volunteer work around the stadium, providing basic gu
 tags = ["Football Event", "Volunteer"]
 
 [[items]]
-title = "Jiangsu City Football League Scene 1"
+title = "Jiangsu City Football League Match Scene"
 subtitle = "Jiangsu City Football League / Event Scene"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-scene-1.jpg"
@@ -75,7 +75,7 @@ content = "A record of sports-event service, showing venue order and spectator s
 tags = ["Event Scene", "Sports Volunteer"]
 
 [[items]]
-title = "Jiangsu City Football League Scene 2"
+title = "Jiangsu City Football League Match Scene"
 subtitle = "Jiangsu City Football League / Event Scene"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-scene-2.jpg"
@@ -83,7 +83,7 @@ content = "Supported on-site coordination and service support during event opera
 tags = ["Event Scene", "Coordination"]
 
 [[items]]
-title = "Jiangsu City Football League Scene 3"
+title = "Jiangsu City Football League Match Scene"
 subtitle = "Jiangsu City Football League / Event Scene"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-scene-3.jpg"
@@ -115,7 +115,7 @@ content = "Supported campus blood donation service by assisting with on-site gui
 tags = ["Public Welfare", "Blood Donation"]
 
 [[items]]
-title = "Community Teaching Activity 1"
+title = "Liuzhou Community Teaching"
 subtitle = "Community Service / Public Classroom"
 date = "2025"
 image = "/volunteer/community-teaching-1.jpg"
@@ -123,7 +123,7 @@ content = "Participated in community teaching, providing study companionship, tu
 tags = ["Community Teaching", "Public Classroom"]
 
 [[items]]
-title = "Community Teaching Activity 2"
+title = "Liuzhou Community Teaching"
 subtitle = "Community Service / Study Support"
 date = "2025"
 image = "/volunteer/community-teaching-2.jpg"
@@ -131,7 +131,7 @@ content = "Assisted with community classroom organization, course preparation, o
 tags = ["Community Service", "Tutoring"]
 
 [[items]]
-title = "Community Teaching Activity 3"
+title = "Liuzhou Community Teaching"
 subtitle = "Community Service / Course Tutoring"
 date = "2025"
 image = "/volunteer/community-teaching-3.jpg"
@@ -139,9 +139,25 @@ content = "Joined course tutoring and interactive communication for community ch
 tags = ["Community Teaching", "Tutoring"]
 
 [[items]]
-title = "Community Teaching Activity 4"
+title = "Liuzhou Community Teaching"
 subtitle = "Community Service / Public Practice"
 date = "2025"
 image = "/volunteer/community-teaching-4.jpg"
 content = "A record of community teaching practice, supporting public classrooms and learning activities."
 tags = ["Public Practice", "Community Service"]
+
+[[items]]
+title = "2025 Nanjing Gaochun Summer Teaching Volunteer"
+subtitle = "Gaochun Summer Teaching / Volunteer Service"
+date = "2025"
+image = "/volunteer/gaochun-summer-teaching-1.jpg"
+content = "Participated in summer teaching volunteer service in Gaochun, Nanjing, supporting course organization, classroom companionship, and tutoring for community children."
+tags = ["Summer Teaching", "Gaochun", "Public Classroom"]
+
+[[items]]
+title = "2025 Nanjing Gaochun Summer Teaching Volunteer"
+subtitle = "Gaochun Summer Teaching / Volunteer Service"
+date = "2025"
+image = "/volunteer/gaochun-summer-teaching-2.jpg"
+content = "A record of summer teaching volunteer service, including teaching interaction, order support, and activity assistance."
+tags = ["Summer Teaching", "Volunteer Service", "Community Education"]

@@ -51,7 +51,7 @@ content = "参与南京浦口马拉松相关志愿服务，协助赛事引导、
 tags = ["浦口马拉松", "赛事服务"]
 
 [[items]]
-title = "江苏城市足球联赛志愿服务"
+title = "苏超志愿者：南京 VS 苏州"
 subtitle = "苏超 / 赛事志愿者"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-1.jpg"
@@ -59,7 +59,7 @@ content = "参与江苏城市足球联赛现场志愿服务，协助观众引导
 tags = ["足球赛事", "苏超", "现场服务"]
 
 [[items]]
-title = "江苏城市足球联赛志愿者记录"
+title = "苏超志愿者：南京 VS 苏州"
 subtitle = "苏超 / 志愿服务"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-2.jpg"
@@ -67,7 +67,7 @@ content = "参与赛场周边志愿工作，为赛事观众和工作人员提供
 tags = ["足球赛事", "志愿者"]
 
 [[items]]
-title = "江苏城市足球联赛现场图 1"
+title = "苏超比赛现场"
 subtitle = "苏超 / 赛事现场"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-scene-1.jpg"
@@ -75,7 +75,7 @@ content = "赛事现场服务记录，展示大型体育活动中的场地秩序
 tags = ["赛事现场", "体育志愿"]
 
 [[items]]
-title = "江苏城市足球联赛现场图 2"
+title = "苏超比赛现场"
 subtitle = "苏超 / 赛事现场"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-scene-2.jpg"
@@ -83,7 +83,7 @@ content = "参与现场协同和服务保障，配合完成赛事运行中的基
 tags = ["赛事现场", "协同服务"]
 
 [[items]]
-title = "江苏城市足球联赛现场图 3"
+title = "苏超比赛现场"
 subtitle = "苏超 / 赛事现场"
 date = "2025"
 image = "/volunteer/jiangsu-city-football-scene-3.jpg"
@@ -115,7 +115,7 @@ content = "参与献血车进校园志愿服务，协助完成现场引导、信
 tags = ["公益服务", "献血活动"]
 
 [[items]]
-title = "社区义教活动 1"
+title = "柳州社区义教"
 subtitle = "社区服务 / 公益课堂"
 date = "2025"
 image = "/volunteer/community-teaching-1.jpg"
@@ -123,7 +123,7 @@ content = "参与社区义教，面向社区儿童开展学习陪伴、课程辅
 tags = ["社区义教", "公益课堂"]
 
 [[items]]
-title = "社区义教活动 2"
+title = "柳州社区义教"
 subtitle = "社区服务 / 学习陪伴"
 date = "2025"
 image = "/volunteer/community-teaching-2.jpg"
@@ -131,7 +131,7 @@ content = "协助组织社区课堂活动，参与课程准备、现场秩序维
 tags = ["社区服务", "学习辅导"]
 
 [[items]]
-title = "社区义教活动 3"
+title = "柳州社区义教"
 subtitle = "社区服务 / 课程辅导"
 date = "2025"
 image = "/volunteer/community-teaching-3.jpg"
@@ -139,9 +139,25 @@ content = "参与社区儿童课程辅导与互动交流，为社区公益教育
 tags = ["社区义教", "课程辅导"]
 
 [[items]]
-title = "社区义教活动 4"
+title = "柳州社区义教"
 subtitle = "社区服务 / 公益实践"
 date = "2025"
 image = "/volunteer/community-teaching-4.jpg"
 content = "记录社区义教实践现场，参与公益课堂组织和学习支持。"
 tags = ["公益实践", "社区服务"]
+
+[[items]]
+title = "2025 南京高淳暑期义教志愿者"
+subtitle = "高淳暑期义教 / 志愿服务"
+date = "2025"
+image = "/volunteer/gaochun-summer-teaching-1.jpg"
+content = "参与南京高淳暑期义教志愿服务，协助课程组织、课堂陪伴与学习辅导，为社区儿童提供暑期公益教育支持。"
+tags = ["暑期义教", "高淳", "公益课堂"]
+
+[[items]]
+title = "2025 南京高淳暑期义教志愿者"
+subtitle = "高淳暑期义教 / 志愿服务"
+date = "2025"
+image = "/volunteer/gaochun-summer-teaching-2.jpg"
+content = "记录暑期义教志愿服务现场，参与教学互动、秩序维护和活动支持。"
+tags = ["暑期义教", "志愿服务", "社区教育"]
