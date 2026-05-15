@@ -28,6 +28,6 @@
 - **National Scholarship**, 2025-2026 academic year
 - **First Prize**, iCAN College Student Innovation and Entrepreneurship Competition
 - **Second Prize**, National College Student Embedded Chip and System Design Competition
-- **First-Class Scholarship for Merit Student**, 2024-2025 academic year
+- **First-Class Merit Scholarship**, 2024-2025 academic year
 - **Outstanding Student Leader**, 2024
 - **Outstanding Volunteer**, 2025, with more than 600 hours of volunteer service
