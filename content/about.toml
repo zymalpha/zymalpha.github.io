@@ -3,9 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Medical Image Processing",
+  "CT Reconstruction and Enhancement",
+  "Diffusion and Generative Models",
+  "Vision Foundation Models for Medical Segmentation"
 ]
 
 [[sections]]

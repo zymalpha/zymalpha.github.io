@@ -3,25 +3,43 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "National Scholarship"
+subtitle = "National Level"
+date = "2025-2026"
+content = "Received the National Scholarship for the 2025-2026 academic year."
+
+[[items]]
+title = "First Prize, iCAN College Student Innovation and Entrepreneurship Competition"
+subtitle = "Provincial Competition"
 date = "2025"
-content = "Description of the award."
+content = "Received the provincial first prize in the iCAN College Student Innovation and Entrepreneurship Competition."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Second Prize, National College Student Embedded Chip and System Design Competition"
+subtitle = "Provincial Competition"
+date = "2025"
+content = "Received the provincial second prize in the National College Student Embedded Chip and System Design Competition."
+
+[[items]]
+title = "First-Class Scholarship for Merit Student"
+subtitle = "Nanjing Agricultural University"
+date = "2024-2025"
+content = "Received the first-class scholarship for merit student in the 2024-2025 academic year."
+
+[[items]]
+title = "Single-Subject Excellence Scholarship"
+subtitle = "Nanjing Agricultural University"
 date = "2024"
-content = "Description of the award."
+content = "Received the single-subject excellence scholarship for CET-6 performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Outstanding Student Leader"
+subtitle = "Nanjing Agricultural University"
+date = "2024"
+content = "Received the university-level Outstanding Student Leader honor."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Outstanding Volunteer"
+subtitle = "Nanjing Agricultural University"
+date = "2025"
+content = "Received the university-level Outstanding Volunteer honor with more than 600 hours of volunteer service."

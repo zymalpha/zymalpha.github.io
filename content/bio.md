@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+Hi! Welcome to my personal website.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+I am Yiming Zheng, a junior undergraduate student majoring in Data Science and Big Data Technology at Nanjing Agricultural University. My research interests focus on computer vision, medical image processing, intelligent medical image reconstruction, deep learning, and related interdisciplinary areas.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Outside research, I enjoy playing football and guitar. I am always happy to connect and discuss research questions, study experiences, or shared interests.

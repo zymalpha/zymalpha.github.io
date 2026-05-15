@@ -1,9 +1,15 @@
 type = "card"
-title = "Services"
-description = "Professional services and community involvement."
+title = "Volunteer Service"
+description = "Student work, volunteer service, and community participation."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
+title = "Outstanding Volunteer"
+subtitle = "Nanjing Agricultural University"
+date = "2025"
+content = "Received the university-level Outstanding Volunteer honor with more than 600 hours of volunteer service."
+
+[[items]]
+title = "Outstanding Student Leader"
+subtitle = "Nanjing Agricultural University"
 date = "2024"
-content = "Reviewed papers for..."
+content = "Participated in student work and collective affairs organization, and received the university-level Outstanding Student Leader honor."

@@ -1,8 +1,8 @@
 [site]
 title = "Yiming Zheng"
-description = "Personal website of Yiming Zheng."
+description = "Undergraduate student in Data Science and Big Data Technology at Nanjing Agricultural University, interested in computer vision, medical image processing, and deep learning."
 favicon = "/favicon.svg"
-last_updated = "May 9, 2026"
+last_updated = "May 15, 2026"
 
 [author]
 name = "Yiming Zheng"
@@ -59,12 +59,6 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
 
 [[navigation]]
 title = "Awards"
