@@ -1,15 +1,147 @@
 type = "card"
-title = "志愿服务"
-description = "学生工作、志愿服务与公共参与。"
+title = "志愿活动"
+description = "这里整理我参与过的赛事服务、校园服务、社区义教与学生工作。页面采用双列照片卡片布局：照片在上，活动信息在下，便于快速浏览。"
 
 [[items]]
-title = "校级优秀志愿者"
-subtitle = "南京农业大学"
-date = "2025"
-content = "累计志愿服务时长超过 600 小时，获得校级优秀志愿者荣誉。"
-
-[[items]]
-title = "校级优秀学生干部"
-subtitle = "南京农业大学"
+title = "2024 江苏省大学生路跑联盟联赛总决赛志愿服务"
+subtitle = "长江潮路跑联盟 / 赛事志愿者"
 date = "2024"
-content = "参与学生工作与集体事务组织，获得校级优秀学生干部荣誉。"
+image = "/volunteer/road-running-league-final.png"
+content = "参与江苏省大学生路跑联盟联赛总决赛暨“长江潮”滨江活力跑相关志愿服务，协助赛事现场秩序维护、选手引导与服务保障。"
+tags = ["赛事服务", "路跑", "长江潮"]
+
+[[items]]
+title = "南京马拉松志愿服务"
+subtitle = "南京马拉松 / 赛事服务"
+date = "2025"
+image = "/volunteer/nanjing-marathon-1.jpg"
+content = "参与南京马拉松赛事志愿服务，配合赛前培训与现场统一调度，完成运动员服务、路线引导和秩序协助等工作。"
+tags = ["赛事服务", "马拉松", "南京"]
+
+[[items]]
+title = "南京马拉松现场服务"
+subtitle = "南京马拉松 / 现场保障"
+date = "2025"
+image = "/volunteer/nanjing-marathon-2.jpg"
+content = "在赛事现场协助完成物资、动线和人员引导等保障工作，支持大型城市马拉松顺利开展。"
+tags = ["现场保障", "马拉松"]
+
+[[items]]
+title = "南京马拉松志愿者工作记录"
+subtitle = "南京马拉松 / 志愿者"
+date = "2025"
+image = "/volunteer/nanjing-marathon-3.jpg"
+content = "记录赛事日志愿服务现场，参与面向跑者与观众的基础服务和现场协同。"
+tags = ["赛事服务", "志愿者"]
+
+[[items]]
+title = "马拉松志愿者骨干培训"
+subtitle = "赛前培训 / 骨干志愿者"
+date = "2025"
+image = "/volunteer/marathon-core-volunteer-training.jpg"
+content = "参加马拉松志愿者骨干培训，熟悉服务岗位、现场流程、沟通规范与突发情况处理要求。"
+tags = ["培训", "赛事服务"]
+
+[[items]]
+title = "南京浦口马拉松志愿服务"
+subtitle = "浦口马拉松 / 赛事志愿者"
+date = "2025"
+image = "/volunteer/pukou-marathon-volunteer.jpg"
+content = "参与南京浦口马拉松相关志愿服务，协助赛事引导、秩序维护和跑者服务。"
+tags = ["浦口马拉松", "赛事服务"]
+
+[[items]]
+title = "江苏城市足球联赛志愿服务"
+subtitle = "苏超 / 赛事志愿者"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-1.jpg"
+content = "参与江苏城市足球联赛现场志愿服务，协助观众引导、现场秩序维护和赛事保障。"
+tags = ["足球赛事", "苏超", "现场服务"]
+
+[[items]]
+title = "江苏城市足球联赛志愿者记录"
+subtitle = "苏超 / 志愿服务"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-2.jpg"
+content = "参与赛场周边志愿工作，为赛事观众和工作人员提供基础引导与协助。"
+tags = ["足球赛事", "志愿者"]
+
+[[items]]
+title = "江苏城市足球联赛现场图 1"
+subtitle = "苏超 / 赛事现场"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-scene-1.jpg"
+content = "赛事现场服务记录，展示大型体育活动中的场地秩序与观众服务场景。"
+tags = ["赛事现场", "体育志愿"]
+
+[[items]]
+title = "江苏城市足球联赛现场图 2"
+subtitle = "苏超 / 赛事现场"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-scene-2.jpg"
+content = "参与现场协同和服务保障，配合完成赛事运行中的基础志愿工作。"
+tags = ["赛事现场", "协同服务"]
+
+[[items]]
+title = "江苏城市足球联赛现场图 3"
+subtitle = "苏超 / 赛事现场"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-scene-3.jpg"
+content = "记录赛事服务现场，参与观众引导与场地秩序维护。"
+tags = ["赛事现场", "观众引导"]
+
+[[items]]
+title = "新生团务助理"
+subtitle = "校园服务 / 团务工作"
+date = "2025"
+image = "/volunteer/freshman-affairs-assistant.jpg"
+content = "参与新生团务相关辅助工作，协助完成材料整理、信息通知、流程引导和新生事务支持。"
+tags = ["校园服务", "团务助理"]
+
+[[items]]
+title = "校内活动志愿服务"
+subtitle = "南京农业大学 / 校园活动"
+date = "2025"
+image = "/volunteer/campus-activity-volunteer.jpg"
+content = "参与校内活动志愿服务，负责现场引导、秩序维护和活动支持。"
+tags = ["校园活动", "志愿服务"]
+
+[[items]]
+title = "献血车进校园志愿服务"
+subtitle = "公益服务 / 校园献血"
+date = "2025"
+image = "/volunteer/blood-donation-volunteer.jpg"
+content = "参与献血车进校园志愿服务，协助完成现场引导、信息提醒和公益活动保障。"
+tags = ["公益服务", "献血活动"]
+
+[[items]]
+title = "社区义教活动 1"
+subtitle = "社区服务 / 公益课堂"
+date = "2025"
+image = "/volunteer/community-teaching-1.jpg"
+content = "参与社区义教，面向社区儿童开展学习陪伴、课程辅导和互动活动。"
+tags = ["社区义教", "公益课堂"]
+
+[[items]]
+title = "社区义教活动 2"
+subtitle = "社区服务 / 学习陪伴"
+date = "2025"
+image = "/volunteer/community-teaching-2.jpg"
+content = "协助组织社区课堂活动，参与课程准备、现场秩序维护和学习辅导。"
+tags = ["社区服务", "学习辅导"]
+
+[[items]]
+title = "社区义教活动 3"
+subtitle = "社区服务 / 课程辅导"
+date = "2025"
+image = "/volunteer/community-teaching-3.jpg"
+content = "参与社区儿童课程辅导与互动交流，为社区公益教育提供志愿支持。"
+tags = ["社区义教", "课程辅导"]
+
+[[items]]
+title = "社区义教活动 4"
+subtitle = "社区服务 / 公益实践"
+date = "2025"
+image = "/volunteer/community-teaching-4.jpg"
+content = "记录社区义教实践现场，参与公益课堂组织和学习支持。"
+tags = ["公益实践", "社区服务"]

@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Image from 'next/image';
 import ReactMarkdown from 'react-markdown';
 import { CardPageConfig } from '@/types/page';
 
@@ -30,6 +31,8 @@ const markdownComponents = {
 };
 
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
+    const hasImages = config.items.some(item => item.image);
+
     return (
         <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -47,19 +50,31 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                 )}
             </div>
 
-            <div className={`grid ${embedded ? "gap-4" : "gap-6"}`}>
+            <div className={`grid ${embedded ? "gap-4" : hasImages ? "gap-6 lg:grid-cols-2" : "gap-6"}`}>
                 {config.items.map((item, index) => (
                     <motion.div
                         key={index}
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.4, delay: 0.1 * index }}
-                        className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]`}
+                        className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : item.image ? "p-0 overflow-hidden" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-lg transition-all duration-200 hover:scale-[1.01]`}
                     >
-                        <div className="flex justify-between items-start mb-2">
+                        {item.image && (
+                            <div className="relative aspect-[16/10] bg-neutral-100 dark:bg-neutral-800">
+                                <Image
+                                    src={item.image}
+                                    alt={item.title}
+                                    fill
+                                    className="object-cover"
+                                    sizes="(max-width: 1024px) 100vw, 50vw"
+                                />
+                            </div>
+                        )}
+                        <div className={item.image ? "p-5" : ""}>
+                        <div className="flex justify-between items-start gap-4 mb-2">
                             <h3 className={`${embedded ? "text-lg" : "text-xl"} font-semibold text-primary`}>{item.title}</h3>
                             {item.date && (
-                                <span className="text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
+                                <span className="shrink-0 text-sm text-neutral-500 font-medium bg-neutral-100 dark:bg-neutral-800 px-2 py-1 rounded">
                                     {item.date}
                                 </span>
                             )}
@@ -83,6 +98,7 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                                 ))}
                             </div>
                         )}
+                        </div>
                     </motion.div>
                 ))}
             </div>

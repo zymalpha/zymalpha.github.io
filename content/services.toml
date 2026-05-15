@@ -1,15 +1,147 @@
 type = "card"
-title = "Volunteer Service"
-description = "Student work, volunteer service, and community participation."
+title = "Volunteer Activities"
+description = "A photo-based collection of my volunteer work in sports events, campus service, community teaching, and student affairs. The page uses two-column photo cards for quick browsing."
 
 [[items]]
-title = "Outstanding Volunteer"
-subtitle = "Nanjing Agricultural University"
-date = "2025"
-content = "Received the university-level Outstanding Volunteer honor with more than 600 hours of volunteer service."
-
-[[items]]
-title = "Outstanding Student Leader"
-subtitle = "Nanjing Agricultural University"
+title = "2024 Jiangsu College Student Road Running League Final"
+subtitle = "Changjiangchao Road Running League / Event Volunteer"
 date = "2024"
-content = "Participated in student work and collective affairs organization, and received the university-level Outstanding Student Leader honor."
+image = "/volunteer/road-running-league-final.png"
+content = "Served as a volunteer for the Jiangsu College Student Road Running League Final and Changjiangchao riverside vitality run, supporting on-site order, runner guidance, and event services."
+tags = ["Event Service", "Road Running", "Changjiangchao"]
+
+[[items]]
+title = "Nanjing Marathon Volunteer Service"
+subtitle = "Nanjing Marathon / Event Service"
+date = "2025"
+image = "/volunteer/nanjing-marathon-1.jpg"
+content = "Participated in Nanjing Marathon volunteer service, completing pre-event training and supporting runner service, route guidance, and on-site coordination."
+tags = ["Event Service", "Marathon", "Nanjing"]
+
+[[items]]
+title = "Nanjing Marathon On-Site Support"
+subtitle = "Nanjing Marathon / On-Site Support"
+date = "2025"
+image = "/volunteer/nanjing-marathon-2.jpg"
+content = "Assisted with materials, route flow, and participant guidance during the event, supporting the operation of a large-scale city marathon."
+tags = ["On-Site Support", "Marathon"]
+
+[[items]]
+title = "Nanjing Marathon Volunteer Record"
+subtitle = "Nanjing Marathon / Volunteer"
+date = "2025"
+image = "/volunteer/nanjing-marathon-3.jpg"
+content = "A record of race-day volunteer work, including basic service and coordination for runners and spectators."
+tags = ["Event Service", "Volunteer"]
+
+[[items]]
+title = "Marathon Core Volunteer Training"
+subtitle = "Pre-Event Training / Core Volunteer"
+date = "2025"
+image = "/volunteer/marathon-core-volunteer-training.jpg"
+content = "Joined core volunteer training for marathon service, learning position responsibilities, on-site workflow, communication norms, and emergency response basics."
+tags = ["Training", "Event Service"]
+
+[[items]]
+title = "Nanjing Pukou Marathon Volunteer Service"
+subtitle = "Pukou Marathon / Event Volunteer"
+date = "2025"
+image = "/volunteer/pukou-marathon-volunteer.jpg"
+content = "Participated in volunteer service for the Nanjing Pukou Marathon, assisting with race guidance, order maintenance, and runner support."
+tags = ["Pukou Marathon", "Event Service"]
+
+[[items]]
+title = "Jiangsu City Football League Volunteer Service"
+subtitle = "Jiangsu City Football League / Event Volunteer"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-1.jpg"
+content = "Supported on-site volunteer work for the Jiangsu City Football League, including spectator guidance, order maintenance, and event support."
+tags = ["Football Event", "On-Site Service"]
+
+[[items]]
+title = "Jiangsu City Football League Volunteer Record"
+subtitle = "Jiangsu City Football League / Volunteer Service"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-2.jpg"
+content = "Participated in volunteer work around the stadium, providing basic guidance and assistance for spectators and staff."
+tags = ["Football Event", "Volunteer"]
+
+[[items]]
+title = "Jiangsu City Football League Scene 1"
+subtitle = "Jiangsu City Football League / Event Scene"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-scene-1.jpg"
+content = "A record of sports-event service, showing venue order and spectator service during a large-scale football event."
+tags = ["Event Scene", "Sports Volunteer"]
+
+[[items]]
+title = "Jiangsu City Football League Scene 2"
+subtitle = "Jiangsu City Football League / Event Scene"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-scene-2.jpg"
+content = "Supported on-site coordination and service support during event operations."
+tags = ["Event Scene", "Coordination"]
+
+[[items]]
+title = "Jiangsu City Football League Scene 3"
+subtitle = "Jiangsu City Football League / Event Scene"
+date = "2025"
+image = "/volunteer/jiangsu-city-football-scene-3.jpg"
+content = "A record of volunteer service on site, including spectator guidance and venue order support."
+tags = ["Event Scene", "Spectator Guidance"]
+
+[[items]]
+title = "Freshman Youth League Affairs Assistant"
+subtitle = "Campus Service / Youth League Affairs"
+date = "2025"
+image = "/volunteer/freshman-affairs-assistant.jpg"
+content = "Assisted with freshman Youth League affairs, including document organization, information notices, process guidance, and student support."
+tags = ["Campus Service", "Student Affairs"]
+
+[[items]]
+title = "Campus Activity Volunteer Service"
+subtitle = "Nanjing Agricultural University / Campus Activity"
+date = "2025"
+image = "/volunteer/campus-activity-volunteer.jpg"
+content = "Served as a volunteer for campus activities, supporting on-site guidance, order maintenance, and event operations."
+tags = ["Campus Activity", "Volunteer Service"]
+
+[[items]]
+title = "Campus Blood Donation Volunteer Service"
+subtitle = "Public Welfare / Blood Donation"
+date = "2025"
+image = "/volunteer/blood-donation-volunteer.jpg"
+content = "Supported campus blood donation service by assisting with on-site guidance, information reminders, and public-welfare activity logistics."
+tags = ["Public Welfare", "Blood Donation"]
+
+[[items]]
+title = "Community Teaching Activity 1"
+subtitle = "Community Service / Public Classroom"
+date = "2025"
+image = "/volunteer/community-teaching-1.jpg"
+content = "Participated in community teaching, providing study companionship, tutoring, and interactive activities for children."
+tags = ["Community Teaching", "Public Classroom"]
+
+[[items]]
+title = "Community Teaching Activity 2"
+subtitle = "Community Service / Study Support"
+date = "2025"
+image = "/volunteer/community-teaching-2.jpg"
+content = "Assisted with community classroom organization, course preparation, on-site order, and tutoring."
+tags = ["Community Service", "Tutoring"]
+
+[[items]]
+title = "Community Teaching Activity 3"
+subtitle = "Community Service / Course Tutoring"
+date = "2025"
+image = "/volunteer/community-teaching-3.jpg"
+content = "Joined course tutoring and interactive communication for community children, supporting public-interest education."
+tags = ["Community Teaching", "Tutoring"]
+
+[[items]]
+title = "Community Teaching Activity 4"
+subtitle = "Community Service / Public Practice"
+date = "2025"
+image = "/volunteer/community-teaching-4.jpg"
+content = "A record of community teaching practice, supporting public classrooms and learning activities."
+tags = ["Public Practice", "Community Service"]
