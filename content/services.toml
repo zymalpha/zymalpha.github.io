@@ -1,6 +1,6 @@
 type = "card"
 title = "Volunteer Activities"
-description = "A photo-based collection of my volunteer work in sports events, campus service, community teaching, and student affairs. The page uses two-column photo cards for quick browsing."
+description = "A record of my volunteer work in sports events, campus service, community teaching, and student affairs."
 
 [[items]]
 title = "2024 Jiangsu College Student Road Running League Final"
@@ -15,7 +15,7 @@ title = "Nanjing Marathon Volunteer Service"
 subtitle = "Nanjing Marathon / Event Service"
 date = "2025"
 image = "/volunteer/nanjing-marathon-1.jpg"
-content = "Participated in Nanjing Marathon volunteer service, completing pre-event training and supporting runner service, route guidance, and on-site coordination."
+content = "Served as a volunteer team leader for the Nanjing Marathon, coordinating volunteer service, supporting pre-event training and on-site scheduling, and helping with runner service, route guidance, and order assistance."
 tags = ["Event Service", "Marathon", "Nanjing"]
 
 [[items]]
